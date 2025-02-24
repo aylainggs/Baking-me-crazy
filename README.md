@@ -1,5 +1,5 @@
 This project was cerated by myself in 2023 for an Honours module (IMY 774 - Virtual Environments). 
-The game requires players to decoarte a cake in virtual reality.
+The game requires players to decorate a cake in virtual reality.
 
 Specs:
 * Unity
